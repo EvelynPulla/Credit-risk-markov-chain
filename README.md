@@ -31,12 +31,12 @@ The next credit rating depends only on the current rating (Markov property)
 
 Fair premium computed as:
 
-x^* = \frac{\mathbb{E}[\text{payout leg}]}{\mathbb{E}[\text{premium leg}]}
+$$x^* = \frac{\mathbb{E}[\text{payout leg}]}{\mathbb{E}[\text{premium leg}]}$$
 
 ## Key Results
 
 Rating |	Fair Premium
------------------------
+------------------------
 AAA    | 0.0000
 AA | 1.1789
 A | 2.4692
