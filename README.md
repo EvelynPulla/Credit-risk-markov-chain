@@ -38,17 +38,11 @@ $$x^* = \frac{\mathbb{E}[\text{payout leg}]}{\mathbb{E}[\text{premium leg}]}$$
 Rating |	Fair Premium
 ------------------------
 AAA    | 0.0000
-----------
 AA     | 1.1789
-------
 A      | 2.4692
--------
 BBB		| 4.4258
---------
 BB		| 10.5715
--------
 B		| 18.7952
---------
 CCC/C	| 50.9801
 ------
 
