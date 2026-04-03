@@ -8,7 +8,7 @@ The goal is to understand how credit risk evolves over time and quantify its fin
 
 ## Model Description
 	•	Each credit rating is treated as a state:
-    AAA, AA, A, BBB, BB, B, CCC/C, D, NR
+        AAA, AA, A, BBB, BB, B, CCC/C, D, NR
 	•	Transitions between ratings are modeled using a transition probability matrix
 	•	Default states: D and NR
 
