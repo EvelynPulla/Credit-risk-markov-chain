@@ -53,6 +53,7 @@ CCC/C	| 50.9801
 ## Default Risk Analysis
 
 The model also estimates multi-year default probabilities:
+
 	•	Default probability increases non-linearly over time
 	•	Lower-rated firms (B, CCC/C) exhibit rapid risk escalation
 	•	Investment-grade firms maintain low long-term default risk
