@@ -35,6 +35,7 @@ $$x^* = \frac{\mathbb{E}[\text{payout leg}]}{\mathbb{E}[\text{premium leg}]}$$
 
 ## Key Results
 
+-------------------------
 Rating |	Fair Premium
 ------------------------
 AAA    | 0.0000
