@@ -61,7 +61,7 @@ The model also estimates multi-year default probabilities:
 
 The model can be extended to compute Expected Loss (EL):
 
-EL = PD \times Exposure \times LGD
+$$EL = PD \times Exposure \times LGD$$
 
 This connects the model to real-world risk management and pricing.
 
