@@ -46,9 +46,9 @@ B		| 18.7952
 CCC/C	| 50.9801
 ------
 
-	•	Default risk increases as credit rating deteriorates
-	•	Speculative-grade firms show significantly higher risk
-	•	CDS premiums reflect expected default losses
+• Default risk increases as credit rating deteriorates
+• Speculative-grade firms show significantly higher risk
+• CDS premiums reflect expected default losses
 
 ## Default Risk Analysis
 
